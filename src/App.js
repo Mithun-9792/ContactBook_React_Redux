@@ -6,6 +6,7 @@ import UpdateContact from "./Components/UpdateContact";
 function App() {
   // matchMedia
   //playing with git
+  //know the commands
   return (
     <div className="App">
       <Router>
