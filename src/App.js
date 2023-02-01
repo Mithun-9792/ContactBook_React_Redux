@@ -5,6 +5,7 @@ import UpdateContact from "./Components/UpdateContact";
 
 function App() {
   //playing with git
+  //know the commands
   return (
     <div className="App">
       <Router>
